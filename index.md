@@ -1,6 +1,9 @@
 ---
-youtubeId: kUQ7KK6MhHw
 layout: default
+---
+
+---
+youtubeId: kUQ7KK6MhHw
 ---
 
 ## 16x interpolation results using only two images
