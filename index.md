@@ -15,16 +15,16 @@ We propose RIFE, a Real-time Intermediate Flow Estimation algorithm, with applic
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-### Definition lists can be used with HTML syntax.
+### How to cite
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+```
+@article{huang2020rife,
+  title={RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation},
+  author={Huang, Zhewei and Zhang, Tianyuan and Heng, Wen and Shi, Boxin and Zhou, Shuchang},
+  journal={arXiv preprint arXiv:2011.06294},
+  year={2020}
+}
+```
+
+
 
