@@ -6,7 +6,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### Small image
 
-
+![Demo](./demo/I0_slomo_clipped.gif)
+![Demo](./demo/I2_slomo_clipped.gif)
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
