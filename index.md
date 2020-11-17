@@ -3,18 +3,13 @@ layout: default
 youtubeId: kUQ7KK6MhHw
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-### 16x interpolation results using only two images
+## 16x interpolation results using only two images
 
 ![Demo](./demo/I0_slomo_clipped.gif)
 ![Demo](./demo/I2_slomo_clipped.gif)
 
 
-### Video demos
-![Demo](./demo/demo_4x_robust(v1.1_24to96).mp4)
-
-![Demo](https://www.youtube.com/watch?v=kUQ7KK6MhHw&feature=youtu.be)
+## Video demos
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
