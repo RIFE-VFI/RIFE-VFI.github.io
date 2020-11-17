@@ -1,5 +1,5 @@
 title: "RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation"
-description: RIFE is a video frame interpolation algorithm that runs in real-time speed
+description: [Zhewei Huang](https://scholar.google.com/citations?user=zJEkaG8AAAAJ&hl=en), [Tianyuan Zhang](http://tianyuanzhang.com/), Wen Heng, [Boxin Shi](http://ci.idm.pku.edu.cn/), [Shuchang Zhou](https://zsc.github.io/)
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
