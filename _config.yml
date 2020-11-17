@@ -3,3 +3,8 @@ description: RIFE is a video frame interpolation algorithm that runs in real-tim
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  paper_url: https://arxiv.org/abs/2011.06294
+  git_url: https://github.com/hzwer/arXiv2020-RIFE
+demo:
+  vid1_id: kUQ7KK6MhHw
