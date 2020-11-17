@@ -1,5 +1,6 @@
 ---
 layout: default
+youtubeId: https://www.youtube.com/watch?v=kUQ7KK6MhHw&feature=youtu.be
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -14,6 +15,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 ![Demo](./demo/demo_4x_robust(v1.1_24to96).mp4)
 
 ![Demo](https://www.youtube.com/watch?v=kUQ7KK6MhHw&feature=youtu.be)
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ### Definition lists can be used with HTML syntax.
 
