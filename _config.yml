@@ -1,5 +1,5 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation
+description: RIFE is a video frame interpolation algorithm that runs in real-time speed
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
