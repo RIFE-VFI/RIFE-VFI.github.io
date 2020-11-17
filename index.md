@@ -4,17 +4,16 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-### Small image
+### 16x interpolation results using only two images
 
 ![Demo](./demo/I0_slomo_clipped.gif)
 ![Demo](./demo/I2_slomo_clipped.gif)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+### Video demos
+![Demo](./demo/demo_4x_robust(v1.1_24to96).mp4)
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
+![Demo](https://www.youtube.com/watch?v=kUQ7KK6MhHw&feature=youtu.be)
 
 ### Definition lists can be used with HTML syntax.
 
