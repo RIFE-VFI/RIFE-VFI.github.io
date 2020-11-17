@@ -1,6 +1,6 @@
 ---
 layout: default
-youtubeId: https://www.youtube.com/watch?v=kUQ7KK6MhHw&feature=youtu.be
+youtubeId: kUQ7KK6MhHw
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
