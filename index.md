@@ -28,9 +28,9 @@ layout: default
 ```
 
 ### Want to generate your own videos?
-**colab**: Try our [colab notebook](https://colab.research.google.com/github/hzwer/arXiv2020-RIFE/blob/main/Colab_demo.ipynb), upload your own videos or images, and run! Or your can visit our [github repo](https://github.com/hzwer/arXiv2020-RIFE)
+**\[colab\]**: Try our [colab notebook](https://colab.research.google.com/github/hzwer/arXiv2020-RIFE/blob/main/Colab_demo.ipynb), upload your own videos or images, and run! Or your can visit our [github repo](https://github.com/hzwer/arXiv2020-RIFE)
 
-**Apps**: There is a new **windows app** which intergrated our algorithm, you can download it for free: [FlowFrames](https://nmkd.itch.io/flowframes)
+**\[Apps\]**: There is a new **windows app** which intergrated our algorithm, you can download it for free: [FlowFrames](https://nmkd.itch.io/flowframes)
 
 If you have any interesting samples you'd like to share, please email Tianyuan Zhang @ *tianyuanzhang@pku.edu.cn*
 ### Contact
