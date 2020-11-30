@@ -1,5 +1,5 @@
 ---
-youtubeId: LE2Dzl0oMHI
+youtubeId: 4we9UWsQtxQ
 layout: default
 ---
 
@@ -13,6 +13,8 @@ layout: default
 
 
 ### Video demos
+We are consistenly working on improving the models generalization to videos with various appearance.
+
 24 FPS -> 96 FPS
 {% include youtubePlayer.html id=page.youtubeId %}
 
