@@ -5,20 +5,20 @@ layout: default
 
 **Abstract:** We propose RIFE, a Real-time Intermediate Flow Estimation algorithm, with applications to Video Frame Interpolation (VFI). Most existing flow estimation methods first estimate the bi-directional optical flows, and then linearly combine them to approximate intermediate flows, leading to artifacts on motion boundaries. We design a neural network named IFNet, that can directly estimate the intermediate flows from images. When interpolating videos, we can warp the frames according to the estimated intermediate flows and employ a fusion process to compute final results. Based on our proposed leakage distillation loss, RIFE can be trained in an end-to-end fashion. Experiments demonstrate that our method is significantly faster than existing VFI methods and can achieve state-of-the-art performance on public benchmarks. 
 
-### Image demos
+### **Image demos**
 16x interpolation results using only two images
 
 ![Demo](./demo/I0_slomo_clipped.gif)
 ![Demo](./demo/I2_slomo_clipped.gif)
 
 
-### Video demos
+### **Video demos**
 We are consistenly working on improving the models generalization to videos with various appearance.
 
 24 FPS -> 96 FPS
 {% include youtubePlayer.html id=page.youtubeId %}
 
-### User Genereated demos
+### **User Genereated demos**
 
 **2d Animation**
 [御坂大哥想让我表白 - 魔女之旅](https://www.bilibili.com/video/BV1sr4y1P7Wg) | [ablyh - 超电磁炮](https://www.bilibili.com/video/BV1gK4y1Q7d9?from=search&seid=16584204362417247463) | [赫萝与罗伦斯的旅途 - 绫波丽](https://www.bilibili.com/video/BV1yz4y1m7iF) |  [没有鼠鼠的雏子Official - 千恋万花](https://www.bilibili.com/video/BV1AT4y1P7kY?from=search&seid=15458655842150253738) |
@@ -33,16 +33,16 @@ We are consistenly working on improving the models generalization to videos with
 [Life in a Day 2020](https://www.youtube.com/watch?v=vcsSc2iksC0) |
 
 
-### Want to generate your own videos?
+### **Want to generate your own videos?**
 **\[colab\]**: Try our [colab notebook](https://colab.research.google.com/github/hzwer/arXiv2020-RIFE/blob/main/Colab_demo.ipynb), upload your own videos or images, and run! Or your can visit our [github repo](https://github.com/hzwer/arXiv2020-RIFE)
 
 **\[Apps\]**: You can refer to [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI), [Flowframes](https://nmkd.itch.io/flowframes) and [RIFE-ncnn-vulkan](https://github.com/nihui/rife-ncnn-vulkan). A Chinese version: [Squirrel-RIFE](https://github.com/YiWeiHuang-stack/Squirrel-Video-Frame-Interpolation)
 
 
-### Contact
+### **Contact**
 You can reach us at: Zhewei Huang @ *huangzhewei@megvii.com*,  Tianyuan zhang @ *tianyuanzhang@pku.edu.cn*
 
-### How to cite
+### **How to cite**
 
 ```
 @article{huang2020rife,
